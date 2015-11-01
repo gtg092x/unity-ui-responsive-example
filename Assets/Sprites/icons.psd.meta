@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 4530dfbf8e559419b87cfc176328e8f8
-timeCreated: 1443044573
+timeCreated: 1446409844
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -46,6 +46,8 @@ TextureImporter:
     21300078: icons_39
     21300080: icons_40
     21300082: icons_41
+    21300084: icons_1
+    21300086: icons_3
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -102,7 +104,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: minus
+    - name: icons_1
       rect:
         serializedVersion: 2
         x: 156
@@ -122,7 +124,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: close
+    - name: icons_3
       rect:
         serializedVersion: 2
         x: 156
